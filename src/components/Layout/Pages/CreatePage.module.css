@@ -1,0 +1,23 @@
+.option {
+    margin-bottom: 100px; 
+  }
+  
+  .createPage {
+    display: flex;
+    width: 100%;
+  }
+  
+  .createBox {
+    width: 20%;
+    border: 1px solid black;
+    border-radius: 25px;
+    margin-right: 10px;
+  }
+  
+  .libraryBox {
+    flex: 1;
+    width: 80%;
+    border: 1px solid black;
+    border-radius: 25px;
+    margin-left: 10px;
+  }
